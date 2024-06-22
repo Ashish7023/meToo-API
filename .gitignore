@@ -1,0 +1,4 @@
+#hide node_module
+/node_modules
+#hide envoriant verable
+.env
